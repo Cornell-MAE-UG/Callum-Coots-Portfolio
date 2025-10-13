@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : Engineering Portfolio# site tagline that appears below site title in masthead
 name                     : Callum Coots
 description              : Callum Coots - Projects and CV 
-baseurl                  : "/spring-2025-portfolio-Callum-Coots" # Set this to "portfolio-<your-github-username>" 
+baseurl                  : "/Callum-Coots-Portfolio" # Set this to "portfolio-<your-github-username>" 
 url                      : "https://callumcoots.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Theme and Style
