@@ -2,6 +2,7 @@
 layout: project
 title: Torque Wrench FEM Analysis
 description: FEM Analysis of CAD Design using Ansys
+technologies: [Sketching]
 permalink: /5-Torque-Wrench-FEM-Analysis/
 ---
 This is a project for my Mechanics of Materials class (MAE3270).  It entails designing a torque wrench in CAD, finding strain gauge output, max 
