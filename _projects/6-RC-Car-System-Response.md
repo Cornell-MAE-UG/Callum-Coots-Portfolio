@@ -1,4 +1,4 @@
-<img width="464" height="202" alt="image" src="https://github.com/user-attachments/assets/dc1a8420-5ce5-4532-8ab3-3b9e97841f03" />---
+---
 layout: project
 title: RC Car System Response
 description: Analysis of RC Car System Response
