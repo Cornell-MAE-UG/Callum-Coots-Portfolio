@@ -2,11 +2,11 @@
 layout: project
 title: Torque Wrench FEM Analysis
 description: FEM Analysis of CAD Design using Ansys
-technologies: [Sketching]
+technologies: [CAD, Ansys, FEM, MATLAB]
 permalink: /5-Torque-Wrench-FEM-Analysis/
 ---
 This is a project for my Mechanics of Materials class (MAE3270).  It entails designing a torque wrench in CAD, finding strain gauge output, max 
-normal stress, tip deflection, and factors of safety for strength, crack growth, and fatigue by hand.  Then, the CAD model is analyzed in Ansys, 
+normal stress, tip deflection, and factors of safety for strength, crack growth, and fatigue via calculation.  Then, the CAD model is analyzed in Ansys, 
 where the same values are extracted and compared to the hand-calculated values.  The final design must have a 1 mV/V strain gauge output, a safety 
 factor for strength of at least 4, a safety factor for crack growth of at least 2 (crack depth = 0.04 in), and a safety factor for fatigue of at 
 least 1.5 (10e6 cycles).  The results are shown below.
@@ -53,3 +53,9 @@ This satisfies our requirement of Vo1 mV/V
 
 The strain gauge selected for this design is the Omega SGD-2/350-LY41, which is a half-bridge strain gauge with dimensions 7.6 mm x 5.8 mm (0.30 in x 0.23 in).  This gauge fits on the torque wrench, and is capable of measuring a strain of up to 10 Vrms, which is more than enough for the wrench’s rated torque.  The cost is $121.14.
 
+10 - Index:
+MATLAB Code for Calculations:
+<img src="{{ '/assets/images/TW-asset-11.png' | relative_url }}" alt="TW Code" width="800" height="400">
+
+Results:
+<img src="{{ '/assets/images/TW-asset-10.png' | relative_url }}" alt="TW Results" width="400" height="800">
