@@ -4,7 +4,11 @@ title: Torque Wrench FEM Analysis
 description: FEM Analysis of CAD Design using Ansys
 permalink: /3-Torque-Wrench-FEM-Analysis/
 ---
-This is a project for my Mechanics of Materials class (MAE3270).  It entails designing a torque wrench in CAD, finding strain gauge output, max normal stress, tip deflection, and factors of safety for strength, crack growth, and fatigue by hand.  Then, the CAD model is analyzed in Ansys, where the same values are extracted and compared to the hand-calculated values.  The final design must have a 1 mV/V strain gauge output, a safety factor for strength of at least 4, a safety factor for crack growth of at least 2 (crack depth = 0.04 in), and a safety factor for fatigue of at least 1.5 (10e6 cycles).  The results are shown below.
+This is a project for my Mechanics of Materials class (MAE3270).  It entails designing a torque wrench in CAD, finding strain gauge output, max 
+normal stress, tip deflection, and factors of safety for strength, crack growth, and fatigue by hand.  Then, the CAD model is analyzed in Ansys, 
+where the same values are extracted and compared to the hand-calculated values.  The final design must have a 1 mV/V strain gauge output, a safety 
+factor for strength of at least 4, a safety factor for crack growth of at least 2 (crack depth = 0.04 in), and a safety factor for fatigue of at 
+least 1.5 (10e6 cycles).  The results are shown below.
 
 Base design concept:
 <img src="{{ '/assets/images/TW-asset-6.png' | relative_url }}" alt="TW Drawing" width="300" height="200">
@@ -21,7 +25,9 @@ The material used is Titanium, alpha-beta alloy, Ti-6Al-4V, annealed.  It has th
 
 3 - Diagram communicating how loads and boundary conditions are applied to FEM model:
 <img src="{{ '/assets/images/TW-asset-2.png' | relative_url }}" alt="TW Loading" width="800" height="533">
-In this figure, the yellow region is the head of the torque wrench.  I gave it a stationary boundary condition by setting its displacement to zero in x, y, and z directions.  The red face is where the load is applied to the handle of the torque wrench.  It was given a 37.5 lbf load (M=600 in-lbf / L=16in) in the y direction.  This is the load direction and rated force for the wrench to be used in real life.
+In this figure, the yellow region is the head of the torque wrench.  I gave it a stationary boundary condition by setting its displacement to 
+zero in x, y, and z directions.  The red face is where the load is applied to the handle of the torque wrench.  It was given a 37.5 lbf load 
+(M=600 in-lbf / L=16in) in the y direction.  This is the load direction and rated force for the wrench to be used in real life.
 
 4 - Deflection Diagram:
 <img src="{{ '/assets/images/TW-asset-3.png' | relative_url }}" alt="TW Deflection" width="800" height="533">
