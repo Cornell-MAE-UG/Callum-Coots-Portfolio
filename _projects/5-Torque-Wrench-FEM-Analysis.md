@@ -59,4 +59,4 @@ MATLAB Code for Calculations:
 
 Results:
 
-<img src="{{ '/assets/images/TW-asset-10.png' | relative_url }}" alt="TW Results" width="400" height="800">
+<img src="{{ '/assets/images/TW-asset-10.png' | relative_url }}" alt="TW Results" width="400" height="700">
