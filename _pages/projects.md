@@ -28,3 +28,5 @@ permalink: /projects/
 <a href="{{ "/4-Table-Fan/" | relative_url }}">Table Fan</a>
 
 <a href="{{ "/5-Torque-Wrench-FEM-Analysis/" | relative_url }}">Torque Wrench FEM Analysis</a>
+
+<a href="{{ "/6-RC-Car-System-Response/" | relative_url }}">RC Car System Response</a>
