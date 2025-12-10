@@ -34,10 +34,10 @@ zero in x, y, and z directions.  The red face is where the load is applied to th
 <img src="{{ '/assets/images/TW-asset-3.png' | relative_url }}" alt="TW Deflection" width="800" height="400">
 
 5 - Normal Strain Contours in Strain Gauge Direction:
-<img src="{{ '/assets/images/TW-asset-3.png' | relative_url }}" alt="TW Normal Strain" width="800" height="400">
+<img src="{{ '/assets/images/TW-asset-4.png' | relative_url }}" alt="TW Normal Strain" width="800" height="400">
 
 6 - Contour Plot of Maximum Principle Stress:
-<img src="{{ '/assets/images/TW-asset-4.png' | relative_url }}" alt="TW Principle Stress" width="800" height="400">
+<img src="{{ '/assets/images/TW-asset-5.png' | relative_url }}" alt="TW Principle Stress" width="800" height="400">
 
 7 - Results from FEM calculation showing maximum normal stress, load point deflection, and strains at the strain gauge locations:
 <img src="{{ '/assets/images/TW-asset-8.png' | relative_url }}" alt="TW FEM Results" width="800" height="100">
