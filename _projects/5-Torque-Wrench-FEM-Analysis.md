@@ -21,26 +21,26 @@ h = 0.63246 in.            b = 0.5 in.             L = 16 in.             c = 1.
 2 - Material Used and Relevant Properties:
 
 The material used is Titanium, alpha-beta alloy, Ti-6Al-4V, annealed.  It has the following properties, which were retrieved from the Granta database:
-<img src="{{ '/assets/images/TW-asset-7.png' | relative_url }}" alt="TW Material Vals" width="800" height="100">
+<img src="{{ '/assets/images/TW-asset-7.png' | relative_url }}" alt="TW Material Vals" width="800" height="67">
 
 3 - Diagram communicating how loads and boundary conditions are applied to FEM model:
-<img src="{{ '/assets/images/TW-asset-2.png' | relative_url }}" alt="TW Loading" width="800" height="533">
+<img src="{{ '/assets/images/TW-asset-2.png' | relative_url }}" alt="TW Loading" width="800" height="400">
 In this figure, the yellow region is the head of the torque wrench.  I gave it a stationary boundary condition by setting its displacement to 
 zero in x, y, and z directions.  The red face is where the load is applied to the handle of the torque wrench.  It was given a 37.5 lbf load 
 (M=600 in-lbf / L=16in) in the y direction.  This is the load direction and rated force for the wrench to be used in real life.
 
 4 - Deflection Diagram:
-<img src="{{ '/assets/images/TW-asset-3.png' | relative_url }}" alt="TW Deflection" width="800" height="533">
+<img src="{{ '/assets/images/TW-asset-3.png' | relative_url }}" alt="TW Deflection" width="800" height="400">
 
 5 - Normal Strain Contours in Strain Gauge Direction:
-<img src="{{ '/assets/images/TW-asset-3.png' | relative_url }}" alt="TW Normal Strain" width="800" height="533">
+<img src="{{ '/assets/images/TW-asset-3.png' | relative_url }}" alt="TW Normal Strain" width="800" height="400">
 
 6 - Contour Plot of Maximum Principle Stress:
-<img src="{{ '/assets/images/TW-asset-4.png' | relative_url }}" alt="TW Principle Stress" width="800" height="533">
+<img src="{{ '/assets/images/TW-asset-4.png' | relative_url }}" alt="TW Principle Stress" width="800" height="400">
 
 7 - Results from FEM calculation showing maximum normal stress, load point deflection, and strains at the strain gauge locations:
-<img src="{{ '/assets/images/TW-asset-8.png' | relative_url }}" alt="TW FEM Results" width="800" height="533">
-<img src="{{ '/assets/images/TW-asset-9.png' | relative_url }}" alt="TW FEM Safety" width="800" height="533">
+<img src="{{ '/assets/images/TW-asset-8.png' | relative_url }}" alt="TW FEM Results" width="800" height="67">
+<img src="{{ '/assets/images/TW-asset-9.png' | relative_url }}" alt="TW FEM Safety" width="800" height="467">
 
 8 - Torque wrench sensitivity in mV/V using strains from the strain gauge:
 
