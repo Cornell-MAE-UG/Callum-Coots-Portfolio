@@ -40,8 +40,8 @@ zero in x, y, and z directions.  The red face is where the load is applied to th
 <img src="{{ '/assets/images/TW-asset-5.png' | relative_url }}" alt="TW Principle Stress" width="800" height="400">
 
 7 - Results from FEM calculation showing maximum normal stress, load point deflection, and strains at the strain gauge locations:
-<img src="{{ '/assets/images/TW-asset-8.png' | relative_url }}" alt="TW FEM Results" width="800" height="100">
-<img src="{{ '/assets/images/TW-asset-9.png' | relative_url }}" alt="TW FEM Safety" width="650" height="367">
+<img src="{{ '/assets/images/TW-asset-8.png' | relative_url }}" alt="TW FEM Results" width="800" height="80">
+<img src="{{ '/assets/images/TW-asset-9.png' | relative_url }}" alt="TW FEM Safety" width="650" height="300">
 
 8 - Torque wrench sensitivity in mV/V using strains from the strain gauge:
 
