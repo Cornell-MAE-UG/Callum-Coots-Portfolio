@@ -9,9 +9,9 @@ permalink: /6-RC-Car-System-Response/
 This project is for MAE 3260: System Dynamics.  It involves dissecting an RC car and analyzing its system dynamics.  I decided to examine
 its disturbance torque and system response, modeling my findings in MATLAB and eventually finding a steady state frequency, rise time, time constant, and overshoot.
 
-<img src="{{ '/assets/images/RC-asset-1.png' | relative_url }}" alt="RC Insides" width="200" height="200">
-<img src="{{ '/assets/images/RC-asset-2.png' | relative_url }}" alt="RC Circuit Board" width="200" height="200">
-<img src="{{ '/assets/images/RC-asset-3.png' | relative_url }}" alt="RC Gears" width="200" height="300">
+<img src="{{ '/assets/images/RC-asset-1.png' | relative_url }}" alt="RC Insides" width="200" height="225">
+<img src="{{ '/assets/images/RC-asset-2.png' | relative_url }}" alt="RC Circuit Board" width="200" height="225">
+<img src="{{ '/assets/images/RC-asset-3.png' | relative_url }}" alt="RC Gears" width="200" height="250">
 
 Feedback Control:
 The system is an open loop system, with no feedback control.  The car takes an input signal from the remote control, uses it to dispense voltage from the battery, which powers the motors.  These motors allow the RC car to move, where it experiences a disturbance input from wheel resistance and other factors.  The result is the system output, which manifests as the final motion of the car.  There is no feedback control in this system, so the car is not adjusting any parameters to meet a final desired output.  Rather, it is taking a standard input and producing an output from that.
