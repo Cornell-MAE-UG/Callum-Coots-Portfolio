@@ -27,10 +27,10 @@ Figure 1:  We can see a decrease in wheel angular velocity when introduced to di
 System Response:
 To measure the system response of the RC car over time, I ran two trials of the car on the ground from rest, with full forward acceleration.  I measured the timestamp of each rotation of the wheels, and then found the difference between each rotation timestamp to find the period of each rotation.  2*pi was then divided by this value to get the frequency in radians per second of each rotation, which was then plotted vs time.  The result is a frequency vs time graph for the RC car.
 
-<img src="{{ '/assets/images/RC-asset-6.png' | relative_url }}" alt="RC Response Plots" width="800" height="400">
+<img src="{{ '/assets/images/RC-asset-6.png' | relative_url }}" alt="RC Response Plots" width="800" height="350">
 
 Figure 2: Plots of ramp up (rotation angle vs time) and frequency response (frequency vs time).  MATLAB was used to synthesize values and generate plots.
 
 To find the rise time for each trial, I averaged the last 5 values to find steady state.  This was 52.76 rad/s for trial 1 and 50.60 rad/s for trial 2.  These steady state values are pretty close to those found in the disturbance section above.  Then the rise time to go from 10% to 90% of steady state was found, resulting in 0.296s for trial 1 and 0.445s for trial 2.  Time constant (time for 63.2% rise) was 0.449s for trial 1 and 0.159s for trial 2.  The overshoot (using peak value vs ss for each trial) was 6.82% for trial 1 and 5.45% for trial 2.
 
-<img src="{{ '/assets/images/RC-asset-7.png' | relative_url }}" alt="RC Response Calcs" width="600" height="300">
+<img src="{{ '/assets/images/RC-asset-7.png' | relative_url }}" alt="RC Response Calcs" width="600" height="250">
