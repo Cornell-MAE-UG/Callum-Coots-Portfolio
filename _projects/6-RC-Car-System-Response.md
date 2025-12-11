@@ -22,6 +22,7 @@ Disturbance Torque:
 <img src="{{ '/assets/images/RC-asset-4.png' | relative_url }}" alt="RC Disturbance Calcs" width="800" height="400">
 
 <img src="{{ '/assets/images/RC-asset-5.png' | relative_url }}" alt="RC Disturbance Plot" width="500" height="400">
+
 Figure 1:  We can see a decrease in wheel angular velocity when introduced to disturbance torque in the form of friction with the ground.
 
 System Response:
