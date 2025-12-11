@@ -30,3 +30,5 @@ permalink: /projects/
 <a href="{{ "/5-Torque-Wrench-FEM-Analysis/" | relative_url }}">Torque Wrench FEM Analysis</a>
 
 <a href="{{ "/6-RC-Car-System-Response/" | relative_url }}">RC Car System Response</a>
+
+<a href="{{ "/7-SD-Speaker-Dissection/" | relative_url }}">Speaker Dissection</a>
