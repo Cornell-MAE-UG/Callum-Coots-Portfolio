@@ -8,6 +8,8 @@ permalink: /7-Speaker-Dissection/
 
 This project is for MAE 3230, Fluid Mechanics.  It involves dissecting a box speaker, modeling it in CAD, and producing 
 a 5 minute youtube video that describes the fluid mechanics of the speaker.  
+My contribution to the project was modeling most of the speaker components in Autodesk Fusion as well as recording a couple 
+clips for the video.
 
 Renderings of the speaker CAD are shown below, some with external bodies hidden to show internal components.
 
