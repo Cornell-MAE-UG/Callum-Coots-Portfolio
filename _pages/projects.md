@@ -32,3 +32,5 @@ permalink: /projects/
 <a href="{{ "/6-RC-Car-System-Response/" | relative_url }}">RC Car System Response</a>
 
 <a href="{{ "/7-Speaker-Dissection/" | relative_url }}">Speaker Dissection</a>
+
+<a href="{{ "/8-Heat-Sink-Analysis/" | relative_url }}">Heat Sink Analysis</a>
