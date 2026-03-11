@@ -10,8 +10,8 @@ This project is for MAE 3240, Heat Transfer.  It involves analyzing heat transfe
 
 The analysis is below, complete with labeled schematics and calculations.
 
-<img src="{{ '/assets/images/SD-asset-4.png' | relative_url }}" alt="SD w Body" width="230" height="300">
-<img src="{{ '/assets/images/SD-asset-3.png' | relative_url }}" alt="SD w Diaphragm" width="230" height="300">
-<img src="{{ '/assets/images/SD-asset-2.png' | relative_url }}" alt="SD w Vent" width="230" height="300">
-<img src="{{ '/assets/images/SD-asset-1.png' | relative_url }}" alt="SD w Cover" width="230" height="300">
+<img src="{{ '/assets/images/8-asset-1.png' | relative_url }}" alt="HT P1" width="300" height="700">
+<img src="{{ '/assets/images/8-asset-2.png' | relative_url }}" alt="HT P2" width="300" height="700">
+<img src="{{ '/assets/images/8-asset-3.png' | relative_url }}" alt="HT P3" width="300" height="700">
+<img src="{{ '/assets/images/8-asset-4.png' | relative_url }}" alt="HT P4" width="300" height="700">
 
