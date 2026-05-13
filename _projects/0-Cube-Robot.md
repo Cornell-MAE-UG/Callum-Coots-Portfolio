@@ -32,5 +32,4 @@ A video of one of our competition runs, a circuit schematic, and the ino file fo
 
 <img src="{{ '/assets/images/Clanker-asset-5.png' | relative_url }}" alt="Clanker circuit diagram" width="500" height="800">
 
-<img src="{{ '/assets/images/Clanker-asset-6.png' | relative_url }}" alt="Clanker code" width="400" height="800">
-
+<a href="assets/Clanker-code.ino" download>Download INO</a>.
