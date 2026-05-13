@@ -26,7 +26,7 @@ Competition Recap:
 We first competed in an 8-team group stage. After finishing first in the group stage with a record of 6-0-1, we entered a 16-team single-elimination bracket. We advanced through the bracket to the finals, where, after two ties, we emerged victorious.
 Final Record:  11 wins, 0 losses, 3 ties
 
-A video of one of our competition runs, a circuit schematic, and our code are shown below.
+A video of one of our competition runs, a circuit schematic, and the ino file for our code are below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1bhQ_YkF6kU?si=5woaqs8OnCWINB34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
