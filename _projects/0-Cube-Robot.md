@@ -28,7 +28,7 @@ Final Record:  11 wins, 0 losses, 3 ties
 
 A video of one of our competition runs, a circuit schematic, and the ino file for our code are below:
 
-<iframe width="560" height="315" src="http://youtube.com/shorts/nxMCuqOI53k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/shorts/nxMCuqOI53k
 
 <img src="{{ '/assets/images/Clanker-asset-5.png' | relative_url }}" alt="Clanker circuit diagram" width="500" height="700">
 
