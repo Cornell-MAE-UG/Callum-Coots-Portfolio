@@ -32,4 +32,4 @@ A video of one of our competition runs, a circuit schematic, and the ino file fo
 
 <img src="{{ '/assets/images/Clanker-asset-5.png' | relative_url }}" alt="Clanker circuit diagram" width="500" height="670">
 
-[Download Code as .ino file]('/assets/Team_Clanker_Final_Code.ino')
+<a href="{{ '/assets/Team_Clanker_Final_Code.ino' | relative_url }}" download> Download Code as .ino file</a>
