@@ -2,7 +2,7 @@
 layout: project
 title: Cube Robot
 description: Cube Craze Robot Competition
-technologies: [Mechatronics, Circuit Integration, Arduino, C, Binary, 3D Printing, Fusion]
+technologies: [Mechatronics, Circuit Integration, Arduino, C, Binary, 3D Printing, Autodesk Fusion]
 permalink: /0-Cube-Robot/
 ---
 
