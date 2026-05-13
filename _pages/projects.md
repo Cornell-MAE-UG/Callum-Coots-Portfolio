@@ -18,6 +18,7 @@ permalink: /projects/
 </div>
 </div>
 -->
+<a href="{{ "/0-Cube-Robot/" | relative_url }}">CubeRobot</a>
 
 <a href="{{ "/1-LeMiniHoop/" | relative_url }}">LeMiniHoop</a>
 
