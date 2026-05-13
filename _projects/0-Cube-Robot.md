@@ -6,7 +6,7 @@ technologies: [Mechatronics, Circuit Integration, Arduino, C, Binary, 3D Printin
 permalink: /0-Cube-Robot/
 ---
 
-This robot was designed for ASML's annual Cube Craze robot competition. ASML is the corporate sponsor for my Mechatronics class, and each year, every student in the class participates in the Cube Craze competition.  The objective is to design a robot within size, material, power, and budget constraints that when placed in the arena, can collect more 1-inch cubes than the opposing robot in 60 seconds. The robot must be fully autonomous once released (no remote control). My team, Team Clanker, was this year's champion, winning out of 62 teams, each with 3 members.
+This robot was designed for Cornell and ASML's annual Cube Craze robot competition. ASML is the corporate sponsor for my Mechatronics class, and each year, every student in the class participates in the Cube Craze competition.  The objective is to design a robot within size, material, power, and budget constraints that when placed in the arena, can collect more 1-inch cubes than the opposing robot in 60 seconds. The robot must be fully autonomous once released (no remote control). My team, Team Clanker, was this year's champion, winning out of 62 teams, each with 3 members.
 
 <img src="{{ '/assets/images/Clanker-asset-4.png' | relative_url }}" alt="Clanker ASML Photo" width="670" height="500">
 
