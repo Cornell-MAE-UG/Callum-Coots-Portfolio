@@ -10,7 +10,7 @@ This robot was designed for Cornell and ASML's annual Cube Craze robot competiti
 
 <img src="{{ '/assets/images/Clanker-asset-4.png' | relative_url }}" alt="Clanker ASML Photo" width="670" height="500">
 
-Our robot followed an unorthodox strategy, which prioritized speed above all else. To achieve this, we removed all sensors from the robot and wired our 9V battery (which was intended for powering solely the arduino) in series with our 6V battery pack (which was intended for powering solely the motors).  The result was an overclocked 15V power source that we used to power our arduino and motors, resulting in a higher speed robot than any of our competitors. We also implemented a push button to start our robot, whereas every other group used the reset button on their arduino boards. Since our code was already running prior to start, we were able to begin movement immediately, avoiding a ~1.5 second delay.
+Our robot followed an unorthodox strategy, which prioritized speed above all else. To achieve this, we removed all sensors from the robot and wired our 9V battery (which is intended for powering solely the arduino) in series with our 6V battery pack (which is intended for powering solely the motors).  The result was an overclocked 15V power source that we used to power our arduino and motors, resulting in a higher speed robot than any of our competitors. We also implemented a push button to start our robot, whereas every other group used the reset button on their arduino boards. Since our code was already running prior to start, we were able to begin movement immediately, avoiding a ~1.5 second delay.
 
 <img src="{{ '/assets/images/Clanker-asset-2.png' | relative_url }}" alt="Clanker Trophy-robot photo" width="500" height="670">
 
